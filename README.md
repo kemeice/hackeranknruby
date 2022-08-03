@@ -1,3 +1,3 @@
 # hackeranknruby
 
-Did some warm up on hackerrank. useing ruby .
+Solution to some tech Challengies useing Ruby  .
